@@ -36,7 +36,7 @@ The app also includes Geolocation support to automatically detect the user’s c
 
 ## 🔗 Live Demo
 
-(Add your deployed project link here)
+https://weatherappbyaryan7637.netlify.app/
 
 ---
 
